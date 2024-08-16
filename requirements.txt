@@ -1,0 +1,8 @@
+streamlit
+os
+cv2
+pickle
+mediapipe
+numpy
+pdb
+scipy.spatial
