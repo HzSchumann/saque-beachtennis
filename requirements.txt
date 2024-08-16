@@ -1,6 +1,6 @@
 streamlit
 os
-cv2
+opencv-python
 pickle
 mediapipe
 numpy
